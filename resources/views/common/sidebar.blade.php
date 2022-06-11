@@ -70,7 +70,7 @@
             data-parent="#accordionSidebar">
             <div class="bg-white collapse-inner">
                 <a class="collapse-item" href="{{ route('reports.index') }}">Sales Report</a>
-                <a class="collapse-item" href=" ">Other</a>
+                <a class="collapse-item" href="">Other</a>
             </div>
         </div>
     </li>

@@ -103,7 +103,7 @@
                                         <div class="status-indicator bg-success"></div>
                                     </div>
                                     <div class="font-weight-bold">
-                                        <div>Hi there! Like What You See? Get In Touch. +254 710 132 425</div>
+                                        <div>Hi there! Like What You See? Get In Touch. +254 768 197 660</div>
                                         <div class="small text-gray-500">Lydah</div>
                                     </div>
                                 </a>
